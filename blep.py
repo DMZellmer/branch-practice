@@ -1,0 +1,2 @@
+name = "blep"
+print(name)
